@@ -1,0 +1,2 @@
+(this["webpackJsonpgov.mahadao.com"]=this["webpackJsonpgov.mahadao.com"]||[]).push([[47],{1099:function(a,o,s){"use strict";s.r(o),o.default=s.p+"static/media/Firebird.17ab8bf7.svg"}}]);
+//# sourceMappingURL=47.722a6a1c.chunk.js.map
