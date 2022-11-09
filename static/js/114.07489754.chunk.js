@@ -1,2 +1,0 @@
-(this["webpackJsonpgov.mahadao.com"]=this["webpackJsonpgov.mahadao.com"]||[]).push([[114],{1168:function(a,s,o){"use strict";o.r(s),s.default=o.p+"static/media/superMAHA.fc1630dd.svg"}}]);
-//# sourceMappingURL=114.07489754.chunk.js.map
