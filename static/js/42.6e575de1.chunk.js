@@ -1,0 +1,2 @@
+(this["webpackJsonpgov.mahadao.com"]=this["webpackJsonpgov.mahadao.com"]||[]).push([[42],{1151:function(a,o,s){"use strict";s.r(o),o.default=s.p+"static/media/Goerli.ac283704.svg"}}]);
+//# sourceMappingURL=42.6e575de1.chunk.js.map
