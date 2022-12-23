@@ -1,2 +1,0 @@
-(this["webpackJsonpgov.mahadao.com"]=this["webpackJsonpgov.mahadao.com"]||[]).push([[47],{1156:function(a,o,s){"use strict";s.r(o),o.default=s.p+"static/media/GreenCheck.2dd88ad4.svg"}}]);
-//# sourceMappingURL=47.0bf89f1f.chunk.js.map
