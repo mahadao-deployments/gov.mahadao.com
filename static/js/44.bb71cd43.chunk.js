@@ -1,2 +1,0 @@
-(this["webpackJsonpgov.mahadao.com"]=this["webpackJsonpgov.mahadao.com"]||[]).push([[44],{1154:function(a,o,s){"use strict";s.r(o),o.default=s.p+"static/media/Rinkeby.ac283704.svg"}}]);
-//# sourceMappingURL=44.bb71cd43.chunk.js.map

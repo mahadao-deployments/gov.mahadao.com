@@ -1,0 +1,2 @@
+(this["webpackJsonpgov.mahadao.com"]=this["webpackJsonpgov.mahadao.com"]||[]).push([[59],{1164:function(a,o,s){"use strict";s.r(o),o.default=s.p+"static/media/YearnFinance.a58f5fe4.svg"}}]);
+//# sourceMappingURL=59.7436665e.chunk.js.map
